@@ -4,13 +4,13 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
+#
+
+<h1 align="left">Hi! My name is Lamarck and I'm a Dev, from Brasil!!</h2>
+
 ###
 
-<h2 align="left">Hi! My name is Lamarck and I'm a Dev, from Brasil!!</h2>
-
-###
-
-<p align="left">Sou estudante de ADSm atualmente no segundo ano do ensino médio, gosto muito de Front-End, Back-End e Sistemas.<br>Amo a ideia de poder fazer com que minhas ideias virem realidade.</p>
+<p align="left">Sou estudante de ADS, estou atualmente no segundo ano do ensino médio, gosto muito de Front-End, Back-End e Sistemas.<br>Amo a ideia de poder fazer com que minhas ideias virem realidade.</p>
 
 ###
 
