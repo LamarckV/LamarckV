@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou estudante de ADSm atualmente no segundo ano do ensino médio, gosto muito de Front-End, Back-End e Sistemas.<br>Amo a ideia de poder fazer com que minhas ideias virem realidade.</p>
+<p align="left">Sou estudante de ADS atualmente no segundo ano do ensino médio, gosto muito de Front-End, Back-End e Sistemas.<br>Amo a ideia de poder fazer com que minhas ideias virem realidade.</p>
 
 ###
 
