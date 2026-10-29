@@ -16,6 +16,7 @@ AlignY=45&descSize=20&desc=Full-Stack%20%26%20Systems%20Developer&descAlign=50&d
   I'm a Systems Analysis and Development (ADS) student from Brazil with a strong passion for <b>Full-Stack Development</b>, <b>Backend
 Architecture</b>, and <b>Software Systems</b>.<br>
   I love turning complex ideas into real-world applications through clean code, scalable architecture, and continuous learning.
+  Guys, you didn't mentioned any d**** in this presentations 
 </p>
 
 ###
